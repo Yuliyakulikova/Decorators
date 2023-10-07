@@ -1,0 +1,8 @@
+Name function: get_temperature
+current date: 18/04/2023 19:48:22
+arguments: ('Donetsk,UA', '9d62e57ada18b760c296d39a1deea438') and {}
+function return: Погодные условия в Донецке:
+ {'temp': 12.48, 'temp_max': 12.48, 'temp_min': 12.48, 'feels_like': 11.35, 'temp_kf': None},
+ overcast clouds,
+ {'speed': 4.17, 'deg': 103, 'gust': 8.41},
+ 60
